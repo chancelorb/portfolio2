@@ -1,7 +1,13 @@
 .projects-container {
-  height: 40em;
+  text-align: center;
+  background-image: url('https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
 }
 
 .project-text {
   padding-top: 4em;
+  color: #fff;
 }

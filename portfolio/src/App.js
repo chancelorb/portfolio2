@@ -6,6 +6,8 @@ import Header from './components/partials/Header'
 import Landing from './components/cat/Landing'
 import About from './components/cat/About'
 import Projects from './components/cat/Projects'
+import Skills from './components/cat/Skills'
+import Contact from './components/cat/Contact'
 
 class App extends Component {
   constructor(props) {
@@ -18,6 +20,8 @@ class App extends Component {
       <Landing />
       <About />
       <Projects />
+      <Skills />
+      <Contact />
       </div>
     );
   }

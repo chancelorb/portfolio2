@@ -1,0 +1,20 @@
+.contact-container {
+  height: 60vh;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  background-color: rgb(0, 0, 0, 0.8);
+}
+.contact-container-b {
+  padding-top: -5em;
+  text-align: center;
+  background-image: url('https://images.pexels.com/photos/707408/pexels-photo-707408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 60vh;
+}
+.contact-text {
+  padding-top: 4em;
+  color: #fff;
+}
