@@ -1,0 +1,37 @@
+.about-container {
+  height: auto;
+}
+
+.about-text {
+  padding-top: 4em;
+}
+
+.quote-container {
+  margin-top: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: right;
+}
+.quote-container > h4 {
+  text-align: right;
+  background-color: rgba(150, 100, 100, 0.8);
+  display: inline-block;
+}
+.quote-container > p {
+  text-align: left;
+  font-size: 20px;
+  background-color: rgba(100, 100, 100, 0.8);
+}
+.about-img {
+  border: solid 1px #000;
+  width: 50%;
+  height: 80%;
+}
+.about-content-container {
+  padding-top: 2em;
+}
+.a-lower-hr {
+  margin-top: -1em;
+  margin-bottom: 4em;
+}

@@ -1,0 +1,33 @@
+.landing-container {
+  text-align: center;
+  background-image: url('https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+}
+hr {
+  background-color: #fff;
+  width: 40%;
+}
+.land-hr {
+  border-right: 4px solid #fff;
+  height: 500px;
+}
+
+.landing-text-container {
+  padding-top: 7em;
+  color: #fff;
+}
+.land-name {
+  padding-top: 2em;
+  text-align:left;
+  padding-left: 2em;
+  font-size: 70px;
+}
+
+.land-desc {
+  text-align: left;
+  padding-left: 3em;
+  padding-top: 1em;
+}
